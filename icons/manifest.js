@@ -4,7 +4,7 @@
 window.DISPLAYKIT_ICON_MANIFEST = {
   "version": 1,
   "basePath": "icons/",
-  "generatedAt": "2025-12-22T19:37:18.676Z",
+  "generatedAt": "2026-05-31T09:27:43.085Z",
   "files": [
     "16x16/antenna.png",
     "16x16/bluetooth_2.png",
